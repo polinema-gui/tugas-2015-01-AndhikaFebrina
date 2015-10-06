@@ -1,0 +1,10 @@
+c:\users\nafira\documents\visual studio 2012\Projects\TugasFebri\TugasFebri\bin\Debug\TugasFebri.exe.config
+c:\users\nafira\documents\visual studio 2012\Projects\TugasFebri\TugasFebri\bin\Debug\TugasFebri.exe
+c:\users\nafira\documents\visual studio 2012\Projects\TugasFebri\TugasFebri\bin\Debug\TugasFebri.pdb
+c:\users\nafira\documents\visual studio 2012\Projects\TugasFebri\TugasFebri\bin\Debug\TugasFebri.xml
+c:\users\nafira\documents\visual studio 2012\Projects\TugasFebri\TugasFebri\obj\Debug\TugasFebri.Form1.resources
+c:\users\nafira\documents\visual studio 2012\Projects\TugasFebri\TugasFebri\obj\Debug\TugasFebri.Resources.resources
+c:\users\nafira\documents\visual studio 2012\Projects\TugasFebri\TugasFebri\obj\Debug\TugasFebri.vbproj.GenerateResource.Cache
+c:\users\nafira\documents\visual studio 2012\Projects\TugasFebri\TugasFebri\obj\Debug\TugasFebri.exe
+c:\users\nafira\documents\visual studio 2012\Projects\TugasFebri\TugasFebri\obj\Debug\TugasFebri.xml
+c:\users\nafira\documents\visual studio 2012\Projects\TugasFebri\TugasFebri\obj\Debug\TugasFebri.pdb
